@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Krzysztof Tylec 👋
+
+I am a Data Analyst and Independent Researcher based in **Aberdeen, Scotland**. I specialize in solving complex, non-linear problems using rigorous statistical methodologies, Python-based data pipelines, and AI-assisted development.
+
+## 🚀 Core Competencies
+- **Data Engineering:** Building automated ETL pipelines for large-scale datasets (e.g., astrophysical kinematic data).
+- **Statistical Modeling:** Non-linear optimization (`SciPy`), K-Fold & Monte Carlo Cross-Validation (Shuffle-Split).
+- **Modern Tools:** Python, `pandas`, `numpy`, `scikit-learn`, GitHub Actions (CI/CD).
+- **AI-Assisted Development:** Proficient in Prompt Engineering and leveraging Large Language Models (LLMs) to architect scalable code bases.
+
+## 🔭 Featured Project: Galactic Kinematics Pipeline
+I recently developed the **UHST v15 framework**, a robust phenomenological model addressing the galactic missing mass problem.
+* **Scale:** Processed 171 galaxies (SPARC database, >3,300 data points).
+* **Rigor:** Eliminated systemic bias ("tilt") using strict out-of-sample validation without per-galaxy parameter tuning.
+* **Transparency:** Fully reproducible, Open Science architecture.
+
+📫 **Reach out to me:** I am currently open to Data Analyst and Data Engineering roles in Aberdeen or remote. Let's connect!
 
 <!--
 **ktylec/ktylec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
