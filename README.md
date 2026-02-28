@@ -1,6 +1,8 @@
 # Hi, I'm Krzysztof Tylec 👋
 
-I am a Data Analyst and Independent Researcher based in **Aberdeen, Scotland**. I specialize in solving complex, non-linear problems using rigorous statistical methodologies, Python-based data pipelines, and AI-assisted development.
+Aspiring Data Analyst based in Aberdeen, Scotland.
+Currently learning Python and data analysis while working on independent analytical projects.
+Interested in data workflows, problem solving, and AI-assisted tools.
 
 ## 🚀 Core Competencies
 - **Data Engineering:** Building automated ETL pipelines for large-scale datasets (e.g., astrophysical kinematic data).
